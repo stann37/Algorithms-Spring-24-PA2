@@ -9,4 +9,4 @@ Each chord is defined by its endpoints, and the goal is to find the subset of ch
 Dynamic programming.
 
 ## Disclaimer
-This code is not guaranteed to earn full credit. The code can be modified to handle large input sizes better.
+The code can be modified to reach better space/time efficiency.
